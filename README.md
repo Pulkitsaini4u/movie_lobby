@@ -5,18 +5,18 @@ This API provides endpoints to manage a collection of movies.
 ## Setup
 
 1. **Clone the Repository:**
-``bash
+``
 git clone https://github.com/Pulkitsaini4u/movie_lobby.git
 ``
 
 
 2. **Install Dependencies:**
-``bash
+``
 npm install
 ``
 
 3. **Run the API:**
-``bash
+``
 npm start
 ``
 
